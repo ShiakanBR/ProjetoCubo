@@ -1,7 +1,7 @@
 package main;
 
-import java.awt.Color;
-import java.awt.Dimension;
+import java.awt.Color; //extensão para cor
+import java.awt.Dimension; //extensão para dimensões
 
 import javax.swing.JPanel;
 
