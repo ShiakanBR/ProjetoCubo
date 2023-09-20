@@ -18,5 +18,7 @@ public class main{
         window.setLocationRelativeTo(null); //não especifica onde ficara a janela
         window.setVisible(true); //Visibilidade da janela
 
+        gamePanel.starGameThread(); //permite iniciar o gameThread
+
     }
 }
